@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
 <AutoSplitter>
+	<Games>
+	<Game>Hyss</Game>
+	</Games>
+	<URLs>
+	<URL>https://github.com/SlaskPrask/HyssSplitter/blob/master/HyssAS.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Decription>Auto Start, Auto Split and Auto Reset</Description>
+</AutoSplitter>
+<AutoSplitter>
     <Games>
       <Game>Turok: Dinosaur Hunter</Game>
     </Games>
